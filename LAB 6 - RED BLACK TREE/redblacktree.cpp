@@ -250,4 +250,5 @@ int main() {
     }
 
     bst.printTree();
+    return 0;
 }
